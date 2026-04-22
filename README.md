@@ -132,4 +132,4 @@ racecar-wing-cfd/
 
 **Harsh Pandey**  
 B.Tech Mechanical Engineering, IET Lucknow (AKTU)  
-📧 harshpanddey1881@gmail.com | [LinkedIn](https://linkedin.com/in/harshpandey)
+📧 harshpanddey1881@gmail.com 
